@@ -1,8 +1,22 @@
-# React + Vite
+Word Guessing Game 🎮
+A fun and interactive word guessing game built with React Js and style with tailwind css.
+Test your vocabulary and logic as you guess the hidden word within a limited number of attempts!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+🎯 Challenging Gameplay: Guess the word in a limited number of attempts.
+🕹️ Dynamic Feedback: See your progress as you guess letters correctly.
+🌈 Customizable: Add your own words or categories to make it unique.
+💡 Responsive Design: Play seamlessly on any device.
 
-Currently, two official plugins are available:
+How to Play
+Select the difficulty : Easy Medium or Hard
+Guess the hidden word one letter at a time.
+Each incorrect guess reduces your remaining attempts.
+Guess the full word before you run out of attempts to win!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React, Tailwind CSS
+
+Live Demo
+https://wordsguess.netlify.app/
+
